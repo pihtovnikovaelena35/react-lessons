@@ -3,6 +3,10 @@
   background-color: rgb(194, 132, 132);
   color: green
 }
-.item {
+.item a {
   color: white;
+  text-decoration: none;
+}
+.item a.activeLink {
+color: gold;
 }
